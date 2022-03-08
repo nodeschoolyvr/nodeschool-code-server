@@ -22,6 +22,8 @@ docker build -t nodeschool-code-server
 docker run -d -p 8080:8080 -v nodeschool:/home/coder nodeschool-code-server --auth none
 ```
 
+It will take a few minutes to build!  
+
 Open `localhost:8080` in your browser.
 
 ![](./screenshot.png)

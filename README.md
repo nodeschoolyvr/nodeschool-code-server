@@ -1,6 +1,6 @@
 # Nodeschool Code-Server Docker Image 
 
-This is a Docker image that will allow you to run VS Code instance in your browser, with node.js, npm, and the majority of the [NodeSchool.io](https://nodeschool.io) workshoppers pre-installed.
+This is a Docker image that will allow you to run a Visual Studio Code instance in your browser, with `node`, `npm`, and the majority of the [NodeSchool.io](https://nodeschool.io) workshoppers pre-installed.
 
 Built from the [Code-Server](https://github.com/coder/code-server) project.
 
